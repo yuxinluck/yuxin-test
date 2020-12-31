@@ -1,5 +1,6 @@
 python -m venv .venv
 
-
-# pip freeze > requirements.txt
 pip install -r requirements.txt
+
+#有添加包的时候需要执行
+# pip freeze > requirements.txt
